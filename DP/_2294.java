@@ -34,7 +34,7 @@ public class _2294 {
 			}
 			if(min != Integer.MAX_VALUE) dp[i] = min;
 		}
-		System.out.println(Arrays.toString(dp[k]);
+		System.out.println(Arrays.toString(dp[k]));
 	}
 
 }
