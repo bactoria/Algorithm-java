@@ -16,7 +16,13 @@
 ### [Dijkstra Algorithm](https://m.blog.naver.com/PostView.nhn?blogId=ndb796&logNo=221234424646&referrerCode=0&searchKeyword=%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC)
 
 - [특정한 최단 경로 (1504)](https://www.acmicpc.net/problem/1504)
-  * [code](./_1504Dijkstra.java)
+  - [code](./_1504Dijkstra.java)
+
+  &nbsp;
+
+- [녹색 옷 입은 애가 젤다지? (4485)](https://www.acmicpc.net/problem/4485)
+  - [code](./_4485Dijkstra.java)
+  - [0][0] 부터 [n-1][n-1] 까지의 최소거리 구하기
 
 &nbsp;
 &nbsp;
@@ -24,7 +30,8 @@
 ### FordFulkerson Algorithm
 
 - [최대 유량 (6086)](https://www.acmicpc.net/problem/6086)
-  * [code](./NetworkFlow/_6086FordFulkerson.java)
+  - [code](./NetworkFlow/_6086FordFulkerson.java)
+
 
   &nbsp;
   &nbsp;
