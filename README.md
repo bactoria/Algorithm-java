@@ -2,18 +2,34 @@
 
 &nbsp;
 
-### Union Find
+### Disjoint Set
+
+`이미 같은 집합일 때 값을 더하지 않도록 예외처리. 빼먹지 말자!`
+
+&nbsp;
+
 - [집합의 표현 (1717)](https://www.acmicpc.net/problem/1717)
   - [code](./_1717.java)
   - root 가중치 없음.
   - n: 1,000,000  
   - m: 100,000
 
+  &nbsp;
+
+- - [친구 네트워크 (4195)]((https://www.acmicpc.net/problem/4195)
+  - [code](./_4195disjointSet.java)
+  - HashMap(String, Node)
+
+
 
   &nbsp;
   &nbsp;
 
 ### [Dijkstra Algorithm](https://m.blog.naver.com/PostView.nhn?blogId=ndb796&logNo=221234424646&referrerCode=0&searchKeyword=%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC)
+
+`그래프에서 노드 사이의 최단 경로를 찾는 알고리즘`
+
+&nbsp;
 
 - [특정한 최단 경로 (1504)](https://www.acmicpc.net/problem/1504)
   - [code](./_1504Dijkstra.java)
