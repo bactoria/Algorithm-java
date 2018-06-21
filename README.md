@@ -2,6 +2,18 @@
 
 &nbsp;
 
+---
+
+### Dynamic Programming
+
+- [가장 긴 증가하는 부분 수열 (11053)](https://www.acmicpc.net/problem/11053) - [code](./DP/_11053.java)
+  - root 가중치 없음.
+  - n: 1,000,000  
+  - m: 100,000
+
+    &nbsp;
+    &nbsp;
+
 ### Disjoint Set
 
 `이미 같은 집합일 때 값을 더하지 않도록 예외처리. 빼먹지 말자!`
@@ -23,6 +35,8 @@
   &nbsp;
   &nbsp;
 
+---
+
 ### [Dijkstra Algorithm](https://m.blog.naver.com/PostView.nhn?blogId=ndb796&logNo=221234424646&referrerCode=0&searchKeyword=%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC)
 
 `그래프에서 노드 사이의 최단 경로를 찾는 알고리즘`
@@ -39,6 +53,14 @@
 &nbsp;
 &nbsp;
 
+---
+
+## [네트워크 플로우](http://coderkoo.tistory.com/4)
+
+기존 그래프에서 **아크에 용량 제한** 이 있는 경우
+
+&nbsp;
+
 ### FordFulkerson Algorithm
 
 - [최대 유량 (6086)](https://www.acmicpc.net/problem/6086) - [code](./NetworkFlow/_6086FordFulkerson.java)
@@ -46,6 +68,8 @@
 
   &nbsp;
   &nbsp;
+
+---
 
 ### [SegmentTree](https://m.blog.naver.com/ndb796/221282210534)
 
@@ -62,3 +86,7 @@
 &nbsp;
 
 - [공장 (7578)](https://www.acmicpc.net/problem/7578) - [code](./SegmentTree/_7578.java)
+
+
+&nbsp;
+&nbsp;
