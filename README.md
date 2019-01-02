@@ -27,8 +27,14 @@
 
   &nbsp;
 
-- - [친구 네트워크 (4195)](https://www.acmicpc.net/problem/4195) - [code](./_4195disjointSet.java)
+- [친구 네트워크 (4195)](https://www.acmicpc.net/problem/4195) - [code](./_4195disjointSet.java)
   - HashMap(String, Node)
+
+  &nbsp;
+
+- [Count Circle Groups (10216)](https://www.acmicpc.net/problem/10216) - [code](./_10216.java)
+  - 각 노드들의 root를 구하는 것은 HashSet 이용 
+  - set에 노드의 루트를 계속 넣고 set.size()로 집합 개수 알 수 있음.
 
 
 
